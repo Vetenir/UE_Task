@@ -22,3 +22,6 @@ Cpp코드로 아래의 기능을 구현.
 ## CppPlayerController
 * 캐릭터의 이동과 카메라 회전, UI 구현.
   + 과제로서 코드에 추가한 것은 최종 화면에 최종 체력도 함께 출력 구현.
+  + 블루프린트로 각 버튼에 맞는 이벤트 적용
+    
+![Image](https://github.com/user-attachments/assets/f08199f5-63cf-431d-8f6c-bf43be6be0d0)
