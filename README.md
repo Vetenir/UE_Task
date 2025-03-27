@@ -1,7 +1,7 @@
 # 언리얼CPP
 Cpp코드로 아래의 기능을 구현.
 
-https://www.youtube.com/watch?v=VIVDMa66bKA
+
 
 ### Moving Block
 * Tick()을 활용해서 액터의 왕복 이동 구현.
